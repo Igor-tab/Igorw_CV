@@ -1,0 +1,3 @@
+Minishell is a custom-built command-line interpreter developed to strictly replicate the core functionalities of Bash. 
+Written entirely in C, the project features a complex, custom-built parser based on an Abstract Syntax Tree (AST) to handle commands and arguments dynamically. 
+It supports essential shell features, including process creation (forking), inter-process communication (piping), Unix signal handling and memory management. 

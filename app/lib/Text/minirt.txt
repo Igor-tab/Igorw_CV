@@ -1,0 +1,10 @@
+miniRT is a raw C implementation of a ray tracing engine.
+It renders static computer-generated images (CGI) without using high-level graphics APIs like OpenGL.
+All the logic, math, and geometry were written by hand.
+By simulating the behavior of light rays as they travel from a viewpoint (camera) and interact with objects, the program calculates the precise color of every pixel on the screen.
+We implemented:
+
+• Specular reflection to achieve a full Phong reflection model.
+• Color disruption: checkerboard pattern.
+• Colored and multi-spot lights.
+• Bump map textures.

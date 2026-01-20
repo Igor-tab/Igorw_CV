@@ -1,0 +1,3 @@
+In my final year of Computer Science, we built a full-stack application using Android Studio and deployed it to the Google Play Store.
+This app was built by a team of four using the agile methodology, with weekly sprints.
+It created a personalized study plan based on information provided by the user.

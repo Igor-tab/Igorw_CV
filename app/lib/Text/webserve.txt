@@ -1,0 +1,2 @@
+Webserv is a HTTP server engineered in C++ 98 to strictly adhere to the HTTP/1.1 protocol.
+Built on a non-blocking I/O architecture, it ensures stability and resilience under load. Beyond serving static content, our Webserv features a robust Multi-CGI system for handling dynamic scripts (PHP, Python) and implements Cookies and Session Management to maintain state in a stateless protocol. The entire system is fully customizable through an Caddy-style configuration file, giving users granular control over routes, limits, and server logic.

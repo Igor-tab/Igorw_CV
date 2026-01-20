@@ -1,0 +1,2 @@
+A system administration project focused on virtualization and containerization. Using Docker and Docker Compose, I orchestrated a complete web infrastructure composed of NGINX, WordPress, and MariaDB. 
+Unlike standard setups, each service was built from custom Dockerfiles (Alpine Linux base) to ensure a deep understanding of system configuration, networking, and service isolation.
